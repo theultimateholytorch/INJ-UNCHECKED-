@@ -9,8 +9,4 @@
 \*\*Leaked by theholytorch\*\*
 
 MMap that suspends a thread through shellcode on RWX \*\*Leaked by theholytorch\*\*
-
-\*\*Leaked by theholytorch\*\*
-
-\*\*Leaked by theholytorch\*\*
-
+had for several months just decided to post it bc why not unsure how it even works look yourself
